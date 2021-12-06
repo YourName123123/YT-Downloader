@@ -1,10 +1,12 @@
 # YT-Downloader
 A python program to download video from YouTube.
 
-It will detect the link you give is in YouTube or not.
-Can detect the YouTube URL has video or not.
-Need to rerun the code if have problem.
+CAN
+-detect the link you give is in YouTube or not.
+-detect the YouTube URL has video or not.
 
 CAN'T
 - downlaod multiple video
 - download same video in same folder
+
+If you input the wrong URL,you need to quit and rerun the code.
